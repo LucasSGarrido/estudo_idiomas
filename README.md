@@ -1,6 +1,7 @@
 # Deutsch Studio
 
-Site de estudos de alemão (A1.1 → A1.2) — estático, offline, sem backend, versão de teste apenas. --- preview alemao-studio.vercel.app
+Site de estudos de alemão (A1.1 → A1.2) — estático, offline, sem backend, versão de teste apenas.
+--- preview: [alemao-studio.vercel.app](https://alemao-studio.vercel.app/)
 
 ## Rodar localmente
 
